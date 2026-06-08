@@ -5,7 +5,7 @@
 This project analyzes Amazon electronics product data to identify factors influencing product performance, customer engagement, and purchase behavior. The analysis combines Python, SQL, and Power BI to transform raw product data into actionable business insights.
 
 The dataset contains over 42,000 Amazon product records, including information on ratings, reviews, pricing, discounts, sponsorship status, and purchase activity.
-
+Cleaned and consolidated 42,000+ product observations into 8,808 unique products for analysis.
 ---
 
 ## Business Problem
@@ -24,7 +24,7 @@ This project aims to answer questions such as:
 
 ## Dataset Information
 
-**Source:** Kaggle
+**Source:** Kaggle - 'https://www.kaggle.com/datasets/ikramshah512/amazon-products-sales-dataset-42k-items-2025'
 
 ### Key Features
 
@@ -102,9 +102,10 @@ Built an interactive Power BI dashboard featuring:
 
 ## Key Insights
 
-* Power & Batteries generated the highest purchase volume among all categories.
-* Customer review volume showed a stronger relationship with purchases than product ratings.
-* Sponsored products generally achieved higher purchase activity than organic listings.
+• Laptops and Other Electronics drive the highest purchase volumes.
+• Cameras command premium pricing but do not lead in purchase volume.
+• Organic listings account for the vast majority of purchases.
+• Review count alone is not a reliable predictor of monthly purchases.
 * Most products had little or no discount applied.
 * Product sales distribution was highly skewed, with a small number of products accounting for a large share of purchases.
 * Product categories contained both primary devices and accessories, influencing average category pricing.
