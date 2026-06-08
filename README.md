@@ -112,34 +112,6 @@ Built an interactive Power BI dashboard featuring:
 ---
 
 
-## Project Structure
-
-amazon-product-analytics/
-
-├── data/
-
-│ └── amazon_cleaned.csv
-
-├── notebook/
-
-│ └── amazon_analysis.ipynb
-
-├── sql/
-
-│ └── analysis_queries.sql
-
-├── powerbi/
-
-│ └── Amazon_Product_Dashboard.pbix
-
-├── images/
-
-│ └── dashboard_screenshot.png
-
-└── README.md
-
----
-
 ## Skills Demonstrated
 
 * Data Cleaning
